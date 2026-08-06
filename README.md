@@ -55,5 +55,4 @@ This project was created to strengthen my understanding of sorting algorithms wh
 - Additional sorting algorithms (e.g. Heap Sort, Shell Sort, Radix Sort)
 - Display time and space complexity information
 - Performance statistics and execution time comparison
-- Audio feedback during sorting
 - Improved UI and visual themes
